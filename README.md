@@ -1,4 +1,4 @@
-# justtest
-practicesth
+# Store the pictures I used
+base
 
-To learn new app efficiently.
+To use GitHub efficiently.
